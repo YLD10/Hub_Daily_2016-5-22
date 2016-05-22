@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1463886027 source:e:\data_struct\homework\lab3\tree2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+	"binarytree.h"
+
+1463886119 e:\data_struct\homework\lab3\tree2\stack.h
+
+1463883615 e:\data_struct\homework\lab3\tree2\binarytree.h
+
