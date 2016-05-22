@@ -50,7 +50,7 @@ int main() {
     Stack *st;
 
     InitStack(&st);
-    puts("\n请输入先序运算式（若输错，请键入$$结束）:\n");
+    puts("\n请输入先序运算式（若输错，请键入多个$结束）:\n");
     MakeCharTree2(&bt);
     puts("");
     PrintBiTree(bt,1);
