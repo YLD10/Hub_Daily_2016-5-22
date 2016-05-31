@@ -35,7 +35,7 @@ int Deep(TreeNode *bt) {
 int main() {
     TreeNode *bt;
 
-    puts("\n请输入先序二叉树（若输错，请键入$$结束）:\n");
+    puts("\n请输入先序二叉树（若输错，请键入多个$结束）:\n");
     MakeCharTree2(&bt);
     puts("");
     PrintBiTree(bt,1);
